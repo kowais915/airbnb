@@ -14,17 +14,87 @@ function App() {
    <>
     <Nav/>
     <Main/>
-  <Card 
-  image={image}
-  title={para}
-  name = {name}
-  price = {price}
-  country = {country}
-  review = {reviews}
+
+    <div className='cardList'>
+        <Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
   
+         />
+
+
+
+<Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
   
+         />
+
+
+
+
+<Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
   
-  />
+         />
+
+
+<Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
+  
+         />
+
+<Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
+  
+         />
+
+
+<Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
+  
+         />
+
+<Card 
+      image={image}
+      title={para}
+      name = {name}
+      price = {price}
+      country = {country}
+      review = {reviews}
+  
+         />
+
+    </div>
+
 
 
   
