@@ -36,3 +36,26 @@ main{
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size: large;
 }
+
+/* styling the card */
+.card{
+  padding: 20px;
+  width: 290px;
+  text-align: center;
+  justify-content: center;
+}
+#star{
+  display: flex;
+  padding: 2px 2px;
+  width: 264px;
+  justify-content: center;
+  
+}
+.star{
+  margin: 2px 10px;
+  width: 25px;
+  
+}
+.rating{
+  margin-top: 6px;
+}
